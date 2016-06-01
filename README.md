@@ -1,2 +1,7 @@
 # hello-world
-first hello word repo from the tutorial
+
+Hi all
+
+First steps in learning 'bout git and hubs.
+
+
